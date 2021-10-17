@@ -196,7 +196,7 @@ header{
     padding:90px 0 80px 0
 }
 .box{
-    background-image:url(../img/conducteur.jpg);
+    background-image:url(../../assets/img/conducteur.jpg);
         background-repeat:no-repeat;
         background-size:cover;
         background-position:center;
@@ -207,7 +207,7 @@ header{
         z-index:9
 }
 .about_us_img{
-    background-image:url(../img/vision.jpg)!important;
+    background-image:url(../../assets/img/vision.jpg)!important;
         width:100%
 }
 .box::before{
@@ -320,23 +320,23 @@ header{
         background-size:cover;
         background-position:center;
         transition:all .7s ease;
-        background-image:url(../img/service1.jpg);
+        background-image:url(../../assets/img/service1.jpg);
         cursor:pointer
 }
 .srv_2{
-    background-image:url(../img/service2.jpg)!important
+    background-image:url(../../assets/img/service2.jpg)!important
 }
 .srv_3{
-    background-image:url(../img/service3.jpg)!important
+    background-image:url(../../assets/img/service3.jpg)!important
 }
 .srv_4{
-    background-image:url(../img/service4.jpg)!important
+    background-image:url(../../assets/img/service4.jpg)!important
 }
 .srv_5{
-    background-image:url(../img/service5.jpg)!important
+    background-image:url(../../assets/img/service5.jpg)!important
 }
 .srv_6{
-    background-image:url(../img/service6.jpg)!important
+    background-image:url(../../assets/img/service6.jpg)!important
 }
  
 .service_body{
@@ -409,7 +409,7 @@ header{
         color:#505050!important
 }
 .facts{
-    background-image:url(../img/bg_3.jpg);
+    background-image:url(../../assets/img/bg_3.jpg);
         background-size:cover;
         background-position:center;
         background-repeat:no-repeat;
@@ -488,7 +488,7 @@ header{
 }
 .project_overlay{
     position:relative;
-        background-image:url(../img/project1.jpg);
+        background-image:url(../../assets/img/project1.jpg);
         background-size:cover;
         background-position:center;
         background-repeat:no-repeat;
@@ -499,25 +499,25 @@ header{
         transition:all ease .6s
 }
 .pj_bg_2{
-    background-image:url(../img/project2.jpg)!important
+    background-image:url(../../assets/img/project2.jpg)!important
 }
 .pj_bg_3{
-    background-image:url(../img/project3.jpg)!important
+    background-image:url(../../assets/img/project3.jpg)!important
 }
 .pj_bg_4{
-    background-image:url(../img/project4.jpg)!important
+    background-image:url(../../assets/img/project4.jpg)!important
 }
 .pj_bg_5{
-    background-image:url(../img/project5.jpg)!important
+    background-image:url(../../assets/img/project5.jpg)!important
 }
 .pj_bg_6{
-    background-image:url(../img/project6.jpg)!important
+    background-image:url(../../assets/img/project6.jpg)!important
 }
 .pj_bg_7{
-    background-image:url(../img/project7.jpg)!important
+    background-image:url(../../assets/img/project7.jpg)!important
 }
 .pj_bg_8{
-    background-image:url(../img/project8.jpg)!important
+    background-image:url(../../assets/img/project8.jpg)!important
 }
 .headding_title{
     position:absolute;
@@ -696,7 +696,7 @@ header{
         padding-bottom:150px
 }
 .team_img{
-    background-image:url(../img/team1.jpg);
+    background-image:url(../../assets/img/team1.jpg);
         background-size:cover;
         background-position:center;
         background-repeat:no-repeat;
@@ -706,25 +706,25 @@ header{
         position:relative
 }
 .team_img_2{
-    background-image:url(../img/team2.jpg)!important
+    background-image:url(../../assets/img/team2.jpg)!important
 }
 .team_img_3{
-    background-image:url(../img/team3.jpg)!important
+    background-image:url(../../assets/img/team3.jpg)!important
 }
 .team_img_4{
-    background-image:url(../img/team4.jpg)!important
+    background-image:url(../../assets/img/team4.jpg)!important
 }
 .team_img_5{
-    background-image:url(../img/team5.jpg)!important
+    background-image:url(../../assets/img/team5.jpg)!important
 }
 .team_img_6{
-    background-image:url(../img/team6.jpg)!important
+    background-image:url(../../assets/img/team6.jpg)!important
 }
 .team_img_7{
-    background-image:url(../img/team7.jpg)!important
+    background-image:url(../../assets/img/team7.jpg)!important
 }
 .team_img_8{
-    background-image:url(../img/team8.jpg)!important
+    background-image:url(../../assets/img/team8.jpg)!important
 }
 .team_outer{
     position:absolute;
@@ -911,7 +911,7 @@ header{
     background-color:#f2f3f8
 }
 .blg_bg{
-    background-image:url(../img/w1.jpg);
+    background-image:url(../../assets/img/w1.jpg);
         background-size:cover;
         background-position:center;
         background-repeat:no-repeat;
@@ -923,19 +923,19 @@ header{
         margin-bottom:45px
 }
 .blg_bg_2{
-    background-image:url(../img/w2.jpg)!important
+    background-image:url(../../assets/img/w2.jpg)!important
 }
 .blg_bg_3{
-    background-image:url(../img/w3.jpg)!important
+    background-image:url(../../assets/img/w3.jpg)!important
 }
 .blg_bg_4{
-    background-image:url(../img/w4.jpg)!important
+    background-image:url(../../assets/img/w4.jpg)!important
 }
 .blg_bg_5{
-    background-image:url(../img/w5.jpg)!important
+    background-image:url(../../assets/img/w5.jpg)!important
 }
 .blg_bg_6{
-    background-image:url(../img/w6.jpg)!important
+    background-image:url(../../assets/img/w6.jpg)!important
 }
 .blg_bg:hover{
     height:500px;
@@ -1064,7 +1064,7 @@ header{
     border-color:#ffff
 }
 .footer_top{
-    background-image:url(../img/banner10.jpg);
+    background-image:url(../../assets/img/banner10.jpg);
         background-size:cover;
         background-repeat:no-repeat;
         background-position:center
@@ -1189,23 +1189,23 @@ footer{
         color:#bc0e09
 }
 .contact_us{
-    background-image:url(../img/contact_us.jpg);
+    background-image:url(../../assets/img/contact_us.jpg);
         background-size:cover;
         background-position:center;
         background-repeat:no-repeat;
         padding:150px 0
 }
 .about_us_bg{
-    background-image:url(../img/about_us.jpg)!important
+    background-image:url(../../assets/img/about_us.jpg)!important
 }
 .services_bg{
-    background-image:url(../img/service_img.jpg)!important
+    background-image:url(../../assets/img/service_img.jpg)!important
 }
 .projects_bg{
-    background-image:url(../img/slider.jpg)!important
+    background-image:url(../../assets/img/slider.jpg)!important
 }
 .blog_bg{
-    background-image:url(../img/blog_img.jpg)!important
+    background-image:url(../../assets/img/blog_img.jpg)!important
 }
 .contact_title h1{
     font-weight:600;
